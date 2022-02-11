@@ -1,0 +1,3 @@
+JUDUL SKRIPSI =>
+1.Tentang penurunan tanah di Semarang bagian utara,nanti bisa digunakan phyton untuk memprediksi dengan Algoritam naive bayes atau dengan menggunakan sistem pakar seperti pada eksaKomputer (ada di laptop)
+2.Membuat analisa kerusakan pada komputer/perangkat elektronik/ sistem pakar pada pasien untuk membantu Dokter dalam mengambil keputusan.

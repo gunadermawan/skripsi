@@ -1,0 +1,10 @@
+Pengantar -> hindari seiring dengan dll, 
+2 -> 2 paragraf
+kesimpulan -> rumusan masalah jadi satu. 
+
+tujuanya -> 1. satu per satu (tiap rummusan masalah) = membangaun sistem kehadiran pegawai scr online
+2.  membangaun sistem rekapitulasi pegawai guna membantu pimpinan dalam membuat kebijakan terkait kehadiran pegawai.
+
+BAB 5. -> menjawab tujuan.
+kesimpulan korelasi dengan tujuan. 
+kesimpulan 3 => presensi online dan rekapitulasi karyawan telah dibangun guna mngmbil kebijakan. 

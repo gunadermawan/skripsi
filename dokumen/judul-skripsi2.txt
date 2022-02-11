@@ -1,0 +1,5 @@
+IDE SKRIPSI
+
+1. intinya gini, merancang aplikasi untuk deteksi dan translate huruf jawa (aksara jawa) dengan 
+pendekatan computer vision (metodenya menyusul hehee, sabar yaa:D )
+2. Merancang aplikasi pendeteksi tulisan tangan (kan tulisan tanganmu jelek) untuk mempermudah dalam koreksi soal mahasiswa oleh dosen dengan pendekatan computer vision (metodnya belom :D)
