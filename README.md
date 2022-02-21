@@ -1,3 +1,3 @@
 # skripsi
-buat ngerjain skripsi teknik informatika
+buat ngerjain skripsi progdi teknik informatika
 
