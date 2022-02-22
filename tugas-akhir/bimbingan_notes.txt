@@ -1,0 +1,6 @@
+bimbingan skripsi:
+1.penambahan rumusan masalah dengan algoritma yang telah diuji?
+2.Dasar teori di bab 2, artikulasi kalimat di point 2.1, serta daftar yang perlu didefinisikan 
+3.pemilihan SDLC yang tepat kalo app udh jadi
+4.Teknik pengumpulan data bagusnya gimana? apa sesuai realita yg udh dijalanin?
+5. referensi dari web bolehkah?
