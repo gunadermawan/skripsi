@@ -4,3 +4,6 @@ bimbingan skripsi:
 3.pemilihan SDLC yang tepat kalo app udh jadi
 4.Teknik pengumpulan data bagusnya gimana? apa sesuai realita yg udh dijalanin?
 5. referensi dari web bolehkah?
+
+bimbingan maret 2022
+1.Bab 2 mencakup metode pengembangan sistem? seperti prototype
