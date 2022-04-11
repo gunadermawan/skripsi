@@ -7,3 +7,8 @@ bimbingan skripsi:
 
 bimbingan maret 2022
 1.Bab 2 mencakup metode pengembangan sistem? seperti prototype
+
+bimbingan 11 april 2022
+1. UI aplikasi pada menu profile diperbarui
+2. Studi literatur pada bab 3 masih belum di isi (perbedaan studi literatur dengan studi pustaka)
+3.
