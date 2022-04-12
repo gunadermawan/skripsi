@@ -12,3 +12,9 @@ bimbingan 11 april 2022
 1. UI aplikasi pada menu profile diperbarui
 2. Studi literatur pada bab 3 masih belum di isi (perbedaan studi literatur dengan studi pustaka)
 3.
+bimbingan 12 maret 2022
+ganti diagram penelitian
+- pengumpulan data penelitian diisi di waktu, tempat, dan metode penelitian
+- menjelaskan metode prototype
+- perancangan program di skip
+- kesimpulan dan saran
