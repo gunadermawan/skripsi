@@ -18,3 +18,7 @@ ganti diagram penelitian
 - menjelaskan metode prototype
 - perancangan program di skip
 - kesimpulan dan saran
+
+bimbingan 19 april 2022
+1. check sdlc prototype dan tabel metopel
+2. penyusunan ERD dengan JSON, krn firebase tidak mnyediakan kueri dan tabel sprti SQL
